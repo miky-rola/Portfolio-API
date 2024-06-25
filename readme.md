@@ -51,9 +51,4 @@ Short description or introduction of the project.
 
 
 
-## Contributing
-
-Describe how others can contribute to the project, including guidelines for pull requests and code formatting.
-
-
 
